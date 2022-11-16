@@ -1,0 +1,2 @@
+- Viết post cảm nhận
+- Tim điểm giao trong các đề tài mọi người hiện theo đuổi 

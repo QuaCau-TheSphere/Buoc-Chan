@@ -1,0 +1,14 @@
+# Buổi họp trước chuyến đi không có nhiều người tham gia
+- Thời gian, nội dung, kế hoạch chương trình không rõ ràng. Không nắm bắt rõ tình hình trong một ngày hoạt động
+- Chưa phân bố thời gian hợp lý. Chưa làm đúng lịch trình đề ra
+- Chia phòng, công việc chưa được chuẩn bị sẵn
+- Thông tin không đồng bộ
+- Tiền đi chợ bất cập
+- Tinh thần chim sáo chưa rõ ràng
+- Công tác chuẩn bị (in ấn, vật dụng hậu cần, v.v.) chưa hoàn thành trước khi bắt đầu chương trình
+- Chưa có mục chào hỏi, làm quen
+- BTC thông báo chưa rõ ràng, thống nhất
+- Chưa có sự rạch ròi về nhiệm vụ BTC
+- Chưa tận dụng được hết nguồn lực của các thành viên  
+- Chưa có được phương hướng hợp tác dài hạn với nhau sau chương trình, để sự thân quen với nhau mà chúng ta đang có tới ngày hôm nay không bị lãng phí
+- Buổi nói chuyện với các em bị khựng, khó khơi gợi 

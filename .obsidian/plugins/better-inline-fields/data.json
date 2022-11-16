@@ -1,0 +1,17 @@
+{
+  "autocomplete": [
+    {
+      "field": "Lĩnh vực chuyên môn",
+      "folder": "1 Thông tin chung/13 Lĩnh vực chuyên môn"
+    },
+    {
+      "field": "Nơi đang sinh sống và học tập",
+      "folder": "1 Thông tin chung/12 Nơi ở"
+    },
+    {
+      "field": "Thuộc lĩnh vực",
+      "folder": "1 Thông tin chung/13 Lĩnh vực chuyên môn"
+    }
+  ],
+  "regexpTrigger": "/"
+}

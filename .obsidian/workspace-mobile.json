@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "9d1250b8c7ca7f2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a94d19b80d6a4404",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cada034681ee796b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9 Tài liệu/FAQ.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2188300aa178c0af",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4574ba32e3538d21",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b7066634b58e6ad0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "915d954accb00ba5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "da64a930a31d2d21",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5af9af30feda6066",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "489def58b18ddec5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "9 Tài liệu/FAQ.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "51afce7a13d921a9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "9 Tài liệu/FAQ.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "929d79888daad4a9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "9 Tài liệu/FAQ.md"
+          }
+        }
+      },
+      {
+        "id": "31f7fb94a365a336",
+        "type": "leaf",
+        "state": {
+          "type": "sekund-main-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "active": "cada034681ee796b",
+  "lastOpenFiles": [
+    "9 Tài liệu/Các tính năng vault nên có.md",
+    "9 Tài liệu/Danh sách.md",
+    "9 Tài liệu/FAQ.md"
+  ]
+}

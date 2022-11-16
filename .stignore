@@ -1,0 +1,11 @@
+*.gdoc
+*.gsheet
+.trash
+(?d) desktop.ini
+workspace.json
+recent-files-obsidian
+obsidian-commits
+workspace-mobile.json
+appearance.json
+community-plugins.json
+.git

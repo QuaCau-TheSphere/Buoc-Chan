@@ -1,0 +1,2 @@
+- Thuốc cảm cúm
+- Bông băng thuốc đỏ

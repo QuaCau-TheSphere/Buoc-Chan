@@ -1,0 +1,7 @@
+{
+  "fileColumnName": "Subject",
+  "listDelimiter": ",",
+  "importNestedFields": true,
+  "mergeSuperchargedLinks": false,
+  "makeWiki": true
+}

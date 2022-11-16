@@ -1,0 +1,5 @@
+- Các bạn hiện tại đang đi học hay không? Nếu có thì học lớp mấy
+- Các bạn có thư viện/ sách không?
+- Nếu là phỏng vấn sâu người dân thì kiểu, hỏi nhà có mấy cháu, cháu có anh/chị/em trai/ em gái đồ hông? Những cháu nào đang đi học? Có đi học đúng tuổi kh? Nếu kh thì lý do là gì? Các cháu có hiện đang còn đi học kh? Có ai phải dừng việc học không? Vì sao lại dừng?
+- Mấy cháu thích đi học không? Nếu không thì hỏi típ là cháu nói sao mà cháu không đi học?
+- Có được địa phương và nhà trường hỗ trợ không? Gia đình và giáo viên, nhà trường có kết nối nhiều không? Bố mẹ có muốn cho con học tiếp không? Kỳ vọng con học tới đâu? Kỳ vọng vào đứa nào nhất? Tại sao?

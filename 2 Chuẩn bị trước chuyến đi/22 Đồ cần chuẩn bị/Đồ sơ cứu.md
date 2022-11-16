@@ -1,0 +1,4 @@
+- [ ] Thuốc cảm cúm
+- [ ] Bông băng thuốc đỏ
+- [ ] Thuốc chống dị ứng
+- [ ] Thuốc tiêu chảy

@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "138fe32216d276f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c428d782961d66cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84f5359ad82225d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Chuẩn bị trước chuyến đi/24 Mong muốn và cách hiểu/Cách tôi hiểu về phát triển bền vững.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e85f4a85fb22545a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f54334c09e7345d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7716d418e3008cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a06926b7eb2fcd8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"1 Thông tin chung\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa1d231f348d1ac1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e9745ef1f91ad20",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d0aec99ef3466ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "642ed67cf5b09582",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2 Chuẩn bị trước chuyến đi/24 Mong muốn và cách hiểu/Cách tôi hiểu về phát triển bền vững.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792593,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "86b3ed26d7e71afd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 Chuẩn bị trước chuyến đi/24 Mong muốn và cách hiểu/Cách tôi hiểu về phát triển bền vững.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ddd41abae2c4207",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 Chuẩn bị trước chuyến đi/24 Mong muốn và cách hiểu/Cách tôi hiểu về phát triển bền vững.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "116cfa35fb6e7c5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d02fb96d70a28ee2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 Chuẩn bị trước chuyến đi/24 Mong muốn và cách hiểu/Cách tôi hiểu về phát triển bền vững.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "84f5359ad82225d1",
+  "lastOpenFiles": [
+    "1 Thông tin chung/13 Lĩnh vực chuyên môn/13 Lĩnh vực chuyên môn.md",
+    "1 Thông tin chung/12 Của thành viên không tham dự nữa/Giáo dục bảo tồn.md",
+    "1 Thông tin chung/12 Của thành viên không tham dự nữa/Ngôn ngữ học ứng dụng.md",
+    "1 Thông tin chung/12 Của thành viên không tham dự nữa/Kiến trúc.md",
+    "2 Chuẩn bị trước chuyến đi/21 Rủi ro/Mất liên lạc.md",
+    "Mất điện thoại.md",
+    "4 Sau chuyến đi/Câu hỏi sau chuyến đi/Tiêu chí gì để trường chọn 30 em tham gia.md",
+    "Các vấn đề trong chuyến đi.md",
+    "README.md",
+    "Tổng hợp tất cả các link.md"
+  ]
+}
