@@ -1,0 +1,4 @@
+- [ ] Thuê nhà
+- [ ] Đồ ăn, nước
+- [ ] Xe
+- [ ] Hướng dẫn viên

@@ -23,5 +23,14 @@
   "import-into-obsidian",
   "multi-column-markdown",
   "obsidian-git",
-  "obsidian-version-history-diff"
+  "obsidian-version-history-diff",
+  "various-complements",
+  "obsidian42-brat",
+  "hot-reload",
+  "folder-note-plugin",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-advanced-uri",
+  "buttons",
+  "copy-url-in-preview",
+  "obsidian-tasks-plugin"
 ]

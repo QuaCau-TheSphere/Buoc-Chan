@@ -11,6 +11,14 @@
     {
       "field": "Thuộc lĩnh vực",
       "folder": "1 Thông tin chung/13 Lĩnh vực chuyên môn"
+    },
+    {
+      "field": "Thành quả cần có",
+      "folder": "3 Thành quả mong muốn"
+    },
+    {
+      "field": "Thành quả hỗ trợ",
+      "folder": "3 Thành quả mong muốn"
     }
   ],
   "regexpTrigger": "/"

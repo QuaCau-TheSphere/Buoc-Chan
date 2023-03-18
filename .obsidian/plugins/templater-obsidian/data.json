@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Ξ Meta 0/01 Templates",
+  "templates_folder": "Thiết lập/Templates",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,24 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "1 Nhu cầu",
-      "template": "Ξ Meta 0/01 Templates/01.1 Nhu cầu.md"
+      "folder": "1 Nhu cầu. Điểm mạnh, điểm yếu/Điểm mạnh – cơ hội",
+      "template": "Thiết lập/Templates/01 Điểm mạnh, điểm yếu.md"
+    },
+    {
+      "folder": "1 Nhu cầu. Điểm mạnh, điểm yếu/Điểm yếu – thách thức",
+      "template": "Thiết lập/Templates/01 Điểm mạnh, điểm yếu.md"
+    },
+    {
+      "folder": "3 Thành quả mong muốn",
+      "template": "Thiết lập/Templates/03 Thành quả.md"
+    },
+    {
+      "folder": "4 Các bên liên quan",
+      "template": "Thiết lập/Templates/04 Người tham gia.md"
+    },
+    {
+      "folder": "5 Thành phẩm",
+      "template": "Thiết lập/Templates/05 Thành phẩm.md"
     }
   ],
   "syntax_highlighting": true,
@@ -24,5 +40,5 @@
   "startup_templates": [
     ""
   ],
-  "enable_ribbon_icon": true
+  "enable_ribbon_icon": false
 }

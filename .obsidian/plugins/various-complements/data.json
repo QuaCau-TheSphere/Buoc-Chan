@@ -1,6 +1,8 @@
 {
   "strategy": "default",
+  "cedictPath": "./cedict_ts.u8",
   "matchStrategy": "prefix",
+  "fuzzyMatch": true,
   "maxNumberOfSuggestions": 255,
   "maxNumberOfWordsAsPhrase": 1,
   "minNumberOfCharactersTriggered": 2,
@@ -10,6 +12,11 @@
   "disableSuggestionsDuringImeOn": false,
   "insertAfterCompletion": false,
   "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
   "showMatchStrategy": false,
   "showComplementAutomatically": true,
   "showIndexingStatus": true,
@@ -28,7 +35,7 @@
   "excludeCurrentVaultPathPrefixPatterns": "",
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
   "enableCustomDictionaryComplement": true,
-  "customDictionaryPaths": "Ξ Meta 0/02 Gõ nhanh.md",
+  "customDictionaryPaths": "Thiết lập/Gõ tắt.md",
   "columnDelimiter": "Tab",
   "customDictionaryWordRegexPattern": "",
   "delimiterToHideSuggestion": "",
@@ -38,96 +45,58 @@
   "enableInternalLinkComplement": false,
   "suggestInternalLinkWithAlias": false,
   "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
   "enableFrontMatterComplement": true,
   "frontMatterComplementMatchStrategy": "inherit",
   "insertCommaAfterFrontMatterCompletion": true,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
   "showLogAboutPerformanceInConsole": true,
   "selectionHistoryTree": {
-    "ttw": {
-      "Chủ đề::": {
-        "customDictionary": {
-          "count": 55,
-          "lastUpdated": 1663405501962
-        }
-      }
-    },
-    "ttq": {
-      "Câu hỏi::": {
-        "customDictionary": {
-          "count": 19,
-          "lastUpdated": 1664679730564
-        }
-      }
-    },
-    "cvt": {
-      "Công việc thành phần::": {
-        "customDictionary": {
-          "count": 16,
-          "lastUpdated": 1663228319403
-        }
-      }
-    },
-    "tccv": {
-      "Tính chất công việc:: Có thể làm một mình, Không phải suy nghĩ nhiều, Có thể làm qua mạng, Tương tác nhiều với loài người, Làm xong không cần hỏi ý kiến": {
-        "customDictionary": {
-          "count": 10,
-          "lastUpdated": 1662399767028
-        }
-      }
-    },
-    "vvl": {
-      "Lý do::": {
-        "customDictionary": {
-          "count": 30,
-          "lastUpdated": 1664786827509
-        }
-      }
-    },
-    "Đối tượng thụ hưởng::": {
-      "Đối tượng thụ hưởng::": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1663247028659
-        }
-      }
-    },
-    "Kết quả mong muốn:: ": {
-      "Kết quả mong muốn:: ": {
+    "Thành quả hỗ trợ:: ": {
+      "Thành quả hỗ trợ:: ": {
         "customDictionary": {
           "count": 2,
-          "lastUpdated": 1663347528907
+          "lastUpdated": 1679152261284
         }
       }
     },
-    "Lý do::": {
-      "Lý do::": {
+    "Thành quả cần có:: ": {
+      "Thành quả cần có:: ": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1663769592603
+          "count": 2,
+          "lastUpdated": 1679158311456
         }
       }
     },
-    "PNML": {
-      "độ-cấp-thiết=\"Phải làm ngay\" or độ-cấp-thiết=\"Muốn làm ngay\" or độ-cấp-thiết=\"Nên làm ngay\" or độ-cấp-thiết=\"Công việc lặp lại\" ": {
+    "dy": {
+      "Điểm yếu:: ": {
         "customDictionary": {
           "count": 1,
-          "lastUpdated": 1664025900977
+          "lastUpdated": 1679159091380
         }
       }
     },
-    "Xem thêm::": {
-      "Xem thêm::": {
+    "```mermaid\nflowchart TB\n    c1-->a2\n    subgraph one\n    a1-->a2\n    end\n    subgraph two\n    b1-->b2\n    end\n    subgraph three\n    c1-->c2\n    end\n```": {
+      "```mermaid\nflowchart TB\n    c1-->a2\n    subgraph one\n    a1-->a2\n    end\n    subgraph two\n    b1-->b2\n    end\n    subgraph three\n    c1-->c2\n    end\n```": {
         "customDictionary": {
           "count": 1,
-          "lastUpdated": 1664681343552
+          "lastUpdated": 1679159891447
         }
       }
     },
-    "Đáp ứng cho nhu cầu của mình::": {
-      "Đáp ứng cho nhu cầu của mình::": {
+    "```mermaid\ngantt\n    dateFormat  YYYY-MM-DD\n    title       Adding GANTT diagram functionality to mermaid\n    excludes    weekends\n    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week (\"sunday\") or \"weekends\", but not the word \"weekdays\".)\n\n    section A section\n    Completed task            :done,    des1, 2014-01-06,2014-01-08\n    Active task               :active,  des2, 2014-01-09, 3d\n    Future task               :         des3, after des2, 5d\n    Future task2              :         des4, after des3, 5d\n\n    section Critical tasks\n    Completed task in the critical line :crit, done, 2014-01-06,24h\n    Implement parser and jison          :crit, done, after des1, 2d\n    Create tests for parser             :crit, active, 3d\n    Future task in critical line        :crit, 5d\n    Create tests for renderer           :2d\n    Add to mermaid                      :1d\n    Functionality added                 :milestone, 2014-01-25, 0d\n\n    section Documentation\n    Describe gantt syntax               :active, a1, after des1, 3d\n    Add gantt diagram to demo page      :after a1  , 20h\n    Add another diagram to demo page    :doc1, after a1  , 48h\n\n    section Last section\n    Describe gantt syntax               :after doc1, 3d\n    Add gantt diagram to demo page      :20h\n    Add another diagram to demo page    :48h\n```": {
+      "```mermaid\ngantt\n    dateFormat  YYYY-MM-DD\n    title       Adding GANTT diagram functionality to mermaid\n    excludes    weekends\n    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week (\"sunday\") or \"weekends\", but not the word \"weekdays\".)\n\n    section A section\n    Completed task            :done,    des1, 2014-01-06,2014-01-08\n    Active task               :active,  des2, 2014-01-09, 3d\n    Future task               :         des3, after des2, 5d\n    Future task2              :         des4, after des3, 5d\n\n    section Critical tasks\n    Completed task in the critical line :crit, done, 2014-01-06,24h\n    Implement parser and jison          :crit, done, after des1, 2d\n    Create tests for parser             :crit, active, 3d\n    Future task in critical line        :crit, 5d\n    Create tests for renderer           :2d\n    Add to mermaid                      :1d\n    Functionality added                 :milestone, 2014-01-25, 0d\n\n    section Documentation\n    Describe gantt syntax               :active, a1, after des1, 3d\n    Add gantt diagram to demo page      :after a1  , 20h\n    Add another diagram to demo page    :doc1, after a1  , 48h\n\n    section Last section\n    Describe gantt syntax               :after doc1, 3d\n    Add gantt diagram to demo page      :20h\n    Add another diagram to demo page    :48h\n```": {
         "customDictionary": {
           "count": 1,
-          "lastUpdated": 1664741887293
+          "lastUpdated": 1679159894548
         }
       }
     }

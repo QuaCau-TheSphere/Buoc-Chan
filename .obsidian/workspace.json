@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84f5359ad82225d1",
+            "id": "014fe2a629a849bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Chuẩn bị trước chuyến đi/24 Mong muốn và cách hiểu/Cách tôi hiểu về phát triển bền vững.md",
+                "file": "5 Thành phẩm/Danh mục công việc.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"1 Thông tin chung\"",
+                "query": "merma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Chuẩn bị trước chuyến đi/24 Mong muốn và cách hiểu/Cách tôi hiểu về phát triển bền vững.md",
+                "file": "5 Thành phẩm/Danh mục công việc.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Chuẩn bị trước chuyến đi/24 Mong muốn và cách hiểu/Cách tôi hiểu về phát triển bền vững.md",
+                "file": "5 Thành phẩm/Danh mục công việc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Chuẩn bị trước chuyến đi/24 Mong muốn và cách hiểu/Cách tôi hiểu về phát triển bền vững.md",
+                "file": "5 Thành phẩm/Danh mục công việc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Chuẩn bị trước chuyến đi/24 Mong muốn và cách hiểu/Cách tôi hiểu về phát triển bền vững.md"
+                "file": "5 Thành phẩm/Danh mục công việc.md"
               }
             }
           }
@@ -180,21 +180,52 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "templater-obsidian:Templater": false
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84f5359ad82225d1",
+  "active": "014fe2a629a849bb",
   "lastOpenFiles": [
-    "1 Thông tin chung/13 Lĩnh vực chuyên môn/13 Lĩnh vực chuyên môn.md",
-    "1 Thông tin chung/12 Của thành viên không tham dự nữa/Giáo dục bảo tồn.md",
-    "1 Thông tin chung/12 Của thành viên không tham dự nữa/Ngôn ngữ học ứng dụng.md",
-    "1 Thông tin chung/12 Của thành viên không tham dự nữa/Kiến trúc.md",
-    "2 Chuẩn bị trước chuyến đi/21 Rủi ro/Mất liên lạc.md",
-    "Mất điện thoại.md",
-    "4 Sau chuyến đi/Câu hỏi sau chuyến đi/Tiêu chí gì để trường chọn 30 em tham gia.md",
-    "Các vấn đề trong chuyến đi.md",
-    "README.md",
-    "Tổng hợp tất cả các link.md"
+    "Thiết lập/Gõ tắt.md",
+    "5 Thành phẩm/Danh mục công việc.md",
+    "Thiết lập/Chương trình cũ/2022 Phước Bình/Lịch trình.md",
+    "Ghi chép họp.md",
+    "Thiết lập/Chương trình cũ/2022 Phước Bình/1 Thông tin chung/Các bên liên quan/Chị Trinh – BQL VQG Phước Bình.md",
+    "Thiết lập/Chương trình cũ/2022 Phước Bình/1 Thông tin chung/Các bên liên quan/Hải Đăng.md",
+    "Kế hoạch.md",
+    "Có thêm uy tín.md",
+    "2 Kỹ năng, kiến thức, câu hỏi/23 Địa phương/Bản đồ.md",
+    "3 Thành quả mong muốn/Đến được nhà của 3 học sinh.md",
+    "3 Thành quả mong muốn/YSEALI cho quỹ.md",
+    "3 Thành quả mong muốn/80% người tham gia thoả mãn với chuyến đi.md",
+    "5 Thành phẩm/Các kế hoạch/Giới thiệu chương trình.md",
+    "5 Thành phẩm/Chuyến đi đợt 1.md",
+    "5 Thành phẩm/Các buổi tập huấn/Buổi làm quen offline.md",
+    "5 Thành phẩm/Các buổi tập huấn/Buổi tập huấn online.md",
+    "5 Thành phẩm/Các buổi tập huấn/Nội dung tập huấn online.md",
+    "5 Thành phẩm/Các kế hoạch/Kế hoạch hoạt động chi tiết từng buổi.md",
+    "Untitled.md",
+    "5 Thành phẩm/Giấy tờ, hợp đồng, email/Email cho người tham dự/Email Xác nhận cam kết tham gia.md",
+    "5 Thành phẩm/Giấy tờ, hợp đồng, email/Email cho người tham dự/Email Thông báo kết quả ứng tuyển.md",
+    "Giấy tờ gửi các bên liên quan.md",
+    "5 Thành phẩm/Các bài truyền thông/Kế hoạch hoạt động chi tiết.md",
+    "5 Thành phẩm/Giấy tờ, hợp đồng, email/Giấy tờ gửi chính quyền, các bên tham gia/YSEALI.md",
+    "5 Thành phẩm/Giấy tờ, hợp đồng, email/Giấy tờ gửi chính quyền, các bên tham gia/Đơn vị bảo trợ.md",
+    "5 Thành phẩm/Giấy tờ, hợp đồng, email/Giấy tờ gửi chính quyền, các bên tham gia/Nhà tài trợ.md",
+    "5 Thành phẩm/Giấy tờ, hợp đồng, email/Giấy tờ gửi chính quyền, các bên tham gia",
+    "5 Thành phẩm/Giấy tờ, hợp đồng, email",
+    "4 Các bên liên quan/Người tham gia",
+    "4 Các bên liên quan/Thành viên YSEALI",
+    "4 Các bên liên quan/YSEALI",
+    "5 Thành phẩm/Các kế hoạch",
+    "7 Công việc/null",
+    "7 Công việc",
+    "Thiết lập/Templates/04 Sản phẩm, thành phẩm, thành quả",
+    "Thiết lập/Templates/02 Kỹ năng, thử thách",
+    "Thiết lập/Chương trình cũ/2022 Phước Bình/Công việc sau chuyến đi/Nhật.png",
+    "Thiết lập/Media/Banner/Cá nhân/Nhật.jpg",
+    "Thiết lập/Media/Bản đồ/Sources/Bản đồ các sản phẩm (tên vui).svg",
+    "Thiết lập/Media/Bản đồ/Sources/4. Bản đồ các sản phẩm (tên đầy đủ).svg",
+    "Thiết lập/Media/Banner/Cá nhân/Starlings_clip_art_medium.png"
   ]
 }
